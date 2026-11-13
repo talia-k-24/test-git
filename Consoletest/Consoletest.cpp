@@ -4,4 +4,7 @@ int main()
 {
     std::cout << "Hello Dodo\n";
     std::cout << "Hello camarade\n";
+
+
+	std::cout << "Hello Dodo\n";
 }
